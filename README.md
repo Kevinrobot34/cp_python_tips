@@ -6,3 +6,4 @@
 
 
 ## techblog
+[Pythonで競プロをしよう！〜入門者が知っておくべきTips〜]( https://medium.com/finatext/lets-do-competitive-programming-with-python-9c8b834769f6 )
